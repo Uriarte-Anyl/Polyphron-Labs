@@ -1,5 +1,5 @@
-# Polyphron-Labs
-Polyphron Labs is a personal development workspace focused on skill growth, experimentation, and project-based learning. It supports the creation of both simple and complex systems while exploring modern technologies, industry practices, and the foundations behind them.
+# Polyphron-laboratories
+Polyphron laboratories is a personal development workspace focused on skill growth, experimentation, and project-based learning. It supports the creation of both simple and complex systems while exploring modern technologies, industry practices, and the foundations behind them.
 
 ## Purpose
 
